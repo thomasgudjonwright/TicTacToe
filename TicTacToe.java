@@ -1,4 +1,3 @@
-// Name: Thomas Wright   ID: 260769898
 import java.util.Arrays; //importing java class: Arrays
 import java.util.Scanner; //importing java class: Scanner
 import java.util.Random; //importing java class: Random
